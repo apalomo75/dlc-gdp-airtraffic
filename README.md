@@ -10,7 +10,7 @@ The project follows a structured data life cycle approach, ensuring traceability
 This project has been developed as a **group assignment**.
 
 - Mario Díez Fernández
-- Guille  
+- Guillermo Sierra Díaz-Vargas
 - David Pérez Caballero
 - Jaime
 - Adrián Hernández Pérez
