@@ -12,7 +12,7 @@ This project has been developed as a **group assignment**.
 - Mario Díez Fernández
 - Guillermo Sierra Díaz-Vargas
 - David Pérez Caballero
-- Jaime
+- Jaime Terán Ramos
 - Adrián Hernández Pérez
 - Alejandro Palomo Morales  
 
